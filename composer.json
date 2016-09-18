@@ -1,0 +1,12 @@
+{
+    "name": "composer-test",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/cyangbo/composer-test"
+        }
+    ],
+    "require": {
+        "cyangbo/composer-test": "dev-master"
+    }
+}
