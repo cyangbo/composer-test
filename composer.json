@@ -1,11 +1,38 @@
 {
-    "name": "composer-test",
+    "name": "cyangbo/composer-cyangbo",
+	"description": "composer-cyangbo",
+	"keywords": ["yii", "composer", "cyangbo"],
+	"homepage": "http://blog.djmsm.com/",
+	"time":"2016-09-18",
+	"type": "yii2-extension",
+	"license": "BSD-3-Clause",
     "repositories": [
         {
             "type": "vcs",
             "url": "https://github.com/cyangbo/composer-test"
         }
     ],
+    "authors": [
+        {
+            "name": "YangBo Cai",
+            "email": "18216575@qq.com",
+            "homepage":"http://blog.djmsm.com/",
+            "role":"project engineer",
+        },
+        {
+            "name": "Jordi Boggiano",
+            "email": "j.boggiano@seld.be",
+            "homepage": "http://seld.be",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/yiisoft/yii2/issues?state=open",
+        "forum": "http://www.yiiframework.com/forum/",
+        "wiki": "http://www.yiiframework.com/wiki/",
+        "irc": "irc://irc.freenode.net/yii",
+        "source": "https://github.com/yiisoft/yii2"
+    },
     "require": {
         "cyangbo/composer-test233": "dev-master"
     }
