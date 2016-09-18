@@ -7,6 +7,6 @@
         }
     ],
     "require": {
-        "cyangbo/composer-test": "dev-master"
+        "cyangbo/composer-test233": "dev-master"
     }
 }
